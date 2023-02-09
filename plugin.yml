@@ -1,0 +1,7 @@
+name: Daily
+version: 1.0
+api: 4.0.0
+author: rayyan
+main: Daily\Main
+description: Runs a command when a player joins for the first time each day.
+commands: []
