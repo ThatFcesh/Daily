@@ -1,4 +1,4 @@
-######## INFO
+# INFO
 
 In This Plugin You Can Let Your Players and Ops/Admins Get Rewards Every Time The Log In To The Server
 
